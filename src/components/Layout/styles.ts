@@ -29,4 +29,10 @@ export const Container = styled.div`
   > main {
     margin-top: 100px;
   }
+
+  @media (max-width: 768px) {
+    > main {
+      margin-top: 75px;
+    }
+  }
 `;
