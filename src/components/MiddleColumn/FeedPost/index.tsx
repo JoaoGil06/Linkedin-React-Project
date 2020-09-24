@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-import Panel from '../../Panel';
+import Panel from "../../Panel";
 
 import {
   Container,
@@ -13,24 +13,27 @@ import {
   CommentIcon,
   ShareIcon,
   SendIcon,
-} from './styles';
+} from "./styles";
 
 const FeedPost: React.FC = () => {
   return (
     <Panel>
       <Container>
         <Row className="heading">
-          <Avatar src="https://i.imgur.com/81RtXfT.jpg" alt="Rocketseat" />
+          <Avatar
+            src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"
+            alt="Linkedin"
+          />
           <Column>
-            <h3>Rocketseat</h3>
-            <h4>Instituição de ensino</h4>
+            <h3>Linkedin</h3>
+            <h4>Rede social</h4>
             <time>1 sem</time>
           </Column>
         </Row>
 
         <PostImage
-          src="https://blog.rocketseat.com.br/content/images/2019/05/Painel.png"
-          alt="Rocketseat Blog"
+          src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/119069206/original/b22787b25ff205f22841ceb1cf5152583ec5a966/write-reactjs-react-redux-app-using-firebase-or-rest-api.jpg"
+          alt="ReactJS Blog"
         />
 
         <Row className="likes">
