@@ -1,7 +1,7 @@
-# Github clone with ReactJS
+# Linkedin clone with ReactJS
 
-![Github clone preview desktop](https://github.com/JoaoGil06/Linkedin-React-Project/blob/master/src/assets/linkedincloneweb.gif) 
-![Github clone preview mobile](https://github.com/JoaoGil06/Linkedin-React-Project/blob/master/src/assets/linkedinclonemobile.gif)
+![Linkedin clone preview desktop](https://github.com/JoaoGil06/Linkedin-React-Project/blob/master/src/assets/linkedincloneweb.gif) 
+![Linkedin clone preview mobile](https://github.com/JoaoGil06/Linkedin-React-Project/blob/master/src/assets/linkedinclonemobile.gif)
 ### [Click here to see the live demo](https://linkedinclone.joaogil.dev/) 
 
 # Features
